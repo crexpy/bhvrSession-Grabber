@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/b43a5409-79c1-4fa7-b5e9-3f813dd41f98
 
 
 <br>
-Permanent link if the video goes invalid or something: http://cdn.isolumia.com/bhvrSessionGrabberShowcase.mp4
+Permanent link if the video goes invalid or something: https://cdn.isolumia.com/bhvrSessionGrabberShowcase.mp4
 
 
 
