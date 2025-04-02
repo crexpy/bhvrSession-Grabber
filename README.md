@@ -2,7 +2,7 @@
 Very easy and self explaining bhvrSession grabber to use for prestige injection or whatever else.<br><br>
 
 Check out our web based Prestige Injector here: https://injector.isolumia.com/ <br>
-*Completely free without limitations - Costs 20k bloodpoints per prestige*
+*Completely free without limitations*
 <br><br>
 
 [![Join our Discord](https://invidget.switchblade.xyz/ZBsJ834qxj)](https://discord.gg/ZBsJ834qxj)
@@ -33,8 +33,8 @@ After downloading the tool heres how you use it:
 
 6. Now after a few seconds the request should have been catched and you succesfully grabbed your bhvrSession!<br>
 
-7. Either press and button in the application to terminate your bhvrSession and ensure it stays valid or close the the application to keep your game open<br><br>
-Note that if you normally close the game back using Alt + F4 or whatever your bhvrSession will go invalid. If you don't instantly termanite it ensure to do so afterwards by using your Task Manager if you want it to stay valid.
+7. Either press any button in the application to terminate your game and ensure the bhvrSession stays valid or close the the application to keep your game open<br><br>
+Note that if you normally close the game by using Alt + F4 or whatever your bhvrSession will go invalid. If you don't instantly termanite it ensure to do so afterwards by using your Task Manager if you want it to stay valid.
 
 <br>
 
