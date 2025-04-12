@@ -172,7 +172,7 @@ namespace BhvrSessionGrabber
         {
             try
             {
-                string[] gameProcesses = { "DeadByDaylight-WinGDK-Shipping.exe", "DeadByDaylight-EGS-Shipping.exe" }; // tries to terminate both cuz im lazy, dont worry about it
+                string[] gameProcesses = { "DeadByDaylight-WinGDK-Shipping.exe", "DeadByDaylight-EGS-Shipping.exe", "DeadByDaylight-Win64-Shipping.exe" }; // tries to terminate both cuz im lazy, dont worry about it
                 foreach (string processName in gameProcesses)
                 {
                     Log($"[!] Trying to terminate {processName}...", ConsoleColor.Yellow);
@@ -198,7 +198,7 @@ namespace BhvrSessionGrabber
         {
             while (true)
             {
-                string[] gameProcesses = { "DeadByDaylight-WinGDK-Shipping", "DeadByDaylight-EGS-Shipping" };
+                string[] gameProcesses = { "DeadByDaylight-WinGDK-Shipping", "DeadByDaylight-EGS-Shipping", "DeadByDaylight-Win64-Shipping.exe" };
                 foreach (var processName in gameProcesses)
                 {
                     var gameProcess = Process.GetProcessesByName(processName).FirstOrDefault();
