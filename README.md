@@ -2,9 +2,14 @@
 Very easy and self explaining bhvrSession grabber to use for prestige injection or whatever else.<br><br>
 
 Check out our web based Prestige Injector here: https://injector.isolumia.com/ <br>
-*Completely free without limitations*
-<br><br>
+*Completely free without limitations*<br><br>
 
+
+If you play on Steam you require an SSL Bypass since it is a proxy, find that here:
+https://github.com/crexpy/Isolumia-Simple-SSL/releases/latest
+You just enable Items and click Start, after that start the session grabber
+<br><br><br>
+If you need help with anything join the Discord :)<br><br>
 [![Join our Discord](https://invidget.switchblade.xyz/ZBsJ834qxj)](https://discord.gg/ZBsJ834qxj)
 
 <br>
